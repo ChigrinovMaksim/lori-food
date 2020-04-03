@@ -30,6 +30,10 @@ body {
     color: #DA1F1F;
 }
 
+.body_restaurant_pizza_city {
+    opacity: 0;
+}
+
 .header_menu_content {
     display: flex;
     justify-content: space-between;

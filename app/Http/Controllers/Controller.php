@@ -13,16 +13,16 @@ class Controller extends BaseController
 
     public function getMainPage()
     {
-        return view('index');
+        return view('pages.main');
     }
 
     public function getPizzaCity()
     {
-        return view('pizza-city');
+        return view('pages.pizza-city');
     }
 
     public function getFountain()
     {
-        return view('fountain');
+        return view('pages.fountain');
     }
 }
