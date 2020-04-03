@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul, li, p, span, a {
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    font-family: 'Prata', serif;
+}
+
+.header {
+    position: relative;
+}
+
+.header_navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: #DA1F1F;
+}
+
+.header_menu_content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.header_menu_content > li > a {
+    color: #DA1F1F;
+    font-size: 15px;
+}
+
+.header_logo_img {
+    margin-top: 4px;
+}
+
+.header_text {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 1%;
+    width: 27%;
+}
+
+.header_actions_message {
+    background: rgba(128, 128, 128, 0.5);
+    text-align: center;
+}
+
+.phone_img {
+    display: block;
+    width: 70px;
+    height: 60px;
+    position: fixed;
+    right: 4%;
+    top: 15%;
+    z-index: 99999;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 0 rgba(227, 7, 7, 0.4);
+    animation: radial-pulse 2s infinite;
+}
+
+@-webkit-keyframes radial-pulse {
+    0% {
+        -webkit-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
+    }
+    70% {
+        -webkit-box-shadow: 0 0 0 15px rgba(227, 7, 7, 0);
+    }
+    100% {
+        -webkit-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0);
+    }
+}
+@keyframes radial-pulse {
+    0% {
+        -moz-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
+        box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
+    }
+    70% {
+        -moz-box-shadow: 0 0 0 15px rgba(227, 7, 7, 0);
+        box-shadow: 0 0 0 15px rgba(227, 7, 7, 0);
+    }
+    100% {
+        -moz-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0);
+        box-shadow: 0 0 0 0 rgba(227, 7, 7, 0);
+    }
+}
+
+/*@keyframes radial-pulse {*/
+/*    0% {*/
+/*        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.5);*/
+/*    }*/
+
+/*    100% {*/
+/*        box-shadow: 0 0 0 40px rgba(227, 7, 7, 0.4);*/
+/*    }*/
+/*}*/
+
+.header_actions_border_animation {
+    animation-name: red-strip;
+    animation-duration: 2s;
+    animation-direction: normal;
+    height: 2px;
+    background-color: red;
+}
+
+@keyframes red-strip{
+    0%{
+        width: 0;
+    }
+    /*50%{*/
+    /*    width: 100%;*/
+    /*}*/
+    /*75%{*/
+    /*    width: 0;*/
+    /*}*/
+    100%{
+        width: 100%;
+    }
+}
+
+.header_actions_text {
+    font-size: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: black;
+    transition: all ease 2s;
+}
+
+.header_actions_images {
+    padding-bottom: 2%;
+}
+
+.body_restaurant_menu {
+    opacity: 0;
+}
+
+.show_body_content {
+    opacity: 1;
+    transition: all ease 3s ;
+}
+
+.body_content_title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 4%;
+    font-size: 25px;
+    /*color: blanchedalmond;*/
+    color: black;
+}
+
+.body_restaurant {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.restaurant_name_fountain {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.menu_restaurant_img:hover {
+    box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
+}
+
+.menu_restaurant_contacts {
+    font-size: 20px;
+    color: wheat;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.menu_content {
+    margin: 4%;
+}
+
+.restaurant_phone_style {
+    background: rgba(0, 0, 0, 0.5);
+    color: wheat;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.restaurant_location {
+    margin-top: 2%;
+}
