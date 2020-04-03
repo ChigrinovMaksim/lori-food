@@ -7,6 +7,7 @@
     <title>Lori food</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
+{{--    <script type="text/javascript" src="{{ url('js/jquery.min.js') }}"></script>--}}
 
     @stack('styles')
     @stack('head-scripts')

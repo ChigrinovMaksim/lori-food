@@ -5,3 +5,14 @@ for (let i=0 ; array.length > i ; i++) {
         array[i].classList.add("show_body_content");
     }, (i + 1) * 200);
 }
+
+$(".body_restaurant_fountain").on('click', function(){
+     $('.fountain_restaurant_image').each( function (key, image) {
+         let $image = $(image);
+         if ($image.width() > 400) {
+             $image.width('400px');
+         }
+    });
+
+    $(this).find('img').width('800px');
+});
