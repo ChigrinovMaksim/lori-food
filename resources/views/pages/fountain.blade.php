@@ -1,11 +1,11 @@
 @extends('base')
 
 @push('styles')
-    <link rel="stylesheet" href="{{ url('css/fountain.css') }}">
+    {!! Html::style('css/fountain.css') !!}
 @endpush
 
 @push('footer-scripts')
-    <script type="text/javascript" src="{{ url('js/fountain.js') }}"></script>
+    {!! Html::script('js/fountain.js') !!}
 @endpush
 
 @section('content')

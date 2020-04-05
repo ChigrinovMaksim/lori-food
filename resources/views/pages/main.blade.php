@@ -1,21 +1,31 @@
 @extends('base')
 
 @push('styles')
-    <link rel="stylesheet" href="{{ url('css/style.css') }}">
+    {!! Html::style('css/main.css') !!}
 @endpush
 
 @push('footer-scripts')
-    <script type="text/javascript" src="{{ url('js/menu.js') }}"></script>
+    {!! Html::script('js/main.js') !!}
 @endpush
 
 @section('content')
+    <div class="header_actions_message">
+        <div class="header_actions_text">режим работы доставки<br>
+            с 11:00 до 21:00
+        </div>
+        <div class="header_actions_border_animation"></div>
+        <!--    <div class="header_actions_images">-->
+        <!--        <img src="images/actions.png" alt="" class="actions_images">-->
+        <!--    </div>-->
+    </div>
+
     <div class="body_content">
         <div class="body_content_title">Наши заведения ждут Вас</div>
         <div class="body_restaurant" id="page_animation">
 
             <div class="body_restaurant_menu">
                 <div class="restaurant_name_fountain">"У Фонтана"</div>
-                <a href="/fountain">
+                <a href="{{ route('get::fountain') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/fountain/face-fountain.jpg" alt="" class="fountain_restaurant_img">
                     </div>
@@ -35,7 +45,7 @@
 
             <div class="body_restaurant_menu">
                 <div class="restaurant_name_fountain">"У Фонтана"</div>
-                <a href="/pizza-city">
+                <a href="{{ route('get::pizza-city') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="pizza-city_restaurant_img">
                     </div>
@@ -55,7 +65,7 @@
 
             <div class="body_restaurant_menu">
                 <div class="restaurant_name_fountain">"У Фонтана"</div>
-                <a href="pizza-city.blade.php">
+                <a href="{{ route('get::knjaga-vtiha') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>
@@ -75,7 +85,7 @@
 
             <div class="body_restaurant_menu">
                 <div class="restaurant_name_fountain">"У Фонтана"</div>
-                <a href="pizza-city.blade.php">
+                <a href="{{ route('get::pizza-city-2') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>

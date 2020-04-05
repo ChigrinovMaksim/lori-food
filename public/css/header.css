@@ -1,0 +1,68 @@
+.header {
+    position: relative;
+}
+
+.header_navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: #DA1F1F;
+}
+
+.header_menu_content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.header_menu_content > li > a {
+    color: #DA1F1F;
+    font-size: 15px;
+    padding: 50px;
+}
+
+.header_logo_img {
+    margin-top: 4px;
+}
+
+.header_text {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 1%;
+}
+
+.header_actions_border_animation {
+    animation-name: red-strip;
+    animation-duration: 2s;
+    animation-direction: normal;
+    height: 2px;
+    background-color: red;
+}
+
+@keyframes red-strip{
+    0%{
+        width: 0;
+    }
+    /*50%{*/
+    /*    width: 100%;*/
+    /*}*/
+    /*75%{*/
+    /*    width: 0;*/
+    /*}*/
+    100%{
+        width: 100%;
+    }
+}
+
+.header_actions_text {
+    font-size: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: black;
+    transition: all ease 2s;
+}
+
+.header_actions_images {
+    padding-bottom: 2%;
+}

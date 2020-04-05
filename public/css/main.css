@@ -1,0 +1,83 @@
+body {
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header_actions_message {
+    background: rgba(128, 128, 128, 0.5);
+    text-align: center;
+}
+
+.body_restaurant_menu {
+    opacity: 0;
+}
+
+.show_body_content {
+    opacity: 1;
+    transition: all ease 3s ;
+}
+
+.body_content_title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 4%;
+    font-size: 25px;
+    /*color: blanchedalmond;*/
+    color: black;
+}
+
+.body_restaurant {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.restaurant_name_fountain {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.menu_restaurant_img:hover {
+    box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
+}
+
+.menu_restaurant_contacts {
+    font-size: 20px;
+    color: wheat;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.menu_content {
+    margin: 4%;
+}
+
+.restaurant_phone_style {
+    background: rgba(0, 0, 0, 0.5);
+    color: wheat;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.restaurant_location {
+    margin-top: 2%;
+}
+
+.valid {
+    border: 1px solid green;
+}
+
+.invalid {
+    border: 1px solid red;
+}

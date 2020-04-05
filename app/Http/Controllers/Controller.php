@@ -23,19 +23,45 @@ class Controller extends BaseController
         return view('pages.pizza-city');
     }
 
+    public function getPizzaCity2()
+    {
+        return view('pages.pizza-city-2');
+    }
+
+    public function getKnjagaVtiha()
+    {
+        return view('pages.knjaga-vtiha');
+    }
+
     public function getFountain()
     {
         return view('pages.fountain');
     }
 
+    public function getGallery()
+    {
+        return view('pages.gallery');
+    }
+
+    public function getDelivery()
+    {
+        return view('pages.delivery');
+    }
+
+    public function getAbout()
+    {
+        return view('pages.about');
+    }
+
     public function postAjaxCallback(Request $request)
     {
         $request->validate([
+            'callback_name' => 'required',
             'callback_phone' => 'required'
         ]);
 
         (new TelegramManager())->sendCallbackMessage($request->all());
 
-        return response()->success();
+        return response()->json(['code' => 200]);
     }
 }

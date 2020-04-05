@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul, li, p, span, a {
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Prata', serif;
+}

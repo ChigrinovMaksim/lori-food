@@ -1,11 +1,11 @@
 @extends('base')
 
 @push('styles')
-    <link rel="stylesheet" href="{{ url('css/pizza-city.css') }}">
+    {!! Html::style('css/pizza-city.css') !!}
 @endpush
 
 @push('footer-scripts')
-    <script type="text/javascript" src="{{ url('js/pizza.js') }}"></script>
+    {!! Html::script('js/pizza-city.js') !!}
 @endpush
 
 @section('content')
