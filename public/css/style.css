@@ -32,13 +32,14 @@ body {
 
 .header_menu_content {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
 .header_menu_content > li > a {
     color: #DA1F1F;
     font-size: 15px;
+    padding: 50px;
 }
 
 .header_logo_img {
@@ -49,7 +50,6 @@ body {
     font-weight: 700;
     font-size: 30px;
     margin: 1%;
-    width: 27%;
 }
 
 .header_actions_message {
@@ -62,8 +62,8 @@ body {
     width: 70px;
     height: 60px;
     position: fixed;
-    right: 4%;
-    top: 15%;
+    right: 15px;
+    top: 15px;
     z-index: 99999;
     border-radius: 50%;
     cursor: pointer;
@@ -205,4 +205,12 @@ body {
 
 .restaurant_location {
     margin-top: 2%;
+}
+
+.valid {
+    border: 1px solid green;
+}
+
+.invalid {
+    border: 1px solid red;
 }
