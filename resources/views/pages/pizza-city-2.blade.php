@@ -33,7 +33,7 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/meat-dishes.jpg" class="pizza_city_restaurant_image">
+                    <img src="images/pizza_city/meat-dishes.png" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
@@ -45,7 +45,7 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/salad2.jpg" class="pizza_city_restaurant_image">
+                    <img src="images/pizza_city/salad2.png" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
@@ -57,7 +57,7 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/first-dishes.jpg" class="pizza_city_restaurant_image">
+                    <img src="images/pizza_city/first-dishes.png" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
@@ -75,7 +75,7 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/vareniki.jpg" class="pizza_city_restaurant_image">
+                    <img src="images/pizza_city/vareniki.png" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
