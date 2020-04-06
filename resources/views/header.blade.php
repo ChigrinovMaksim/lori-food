@@ -12,8 +12,8 @@
             <ul class="header_menu_content">
                 <li><a href="{{ route('get::main') }}">Главная</a></li>
                 <li><a href="{{ route('get::gallery') }}">Галерея</a></li>
-                <li><a href="/">Доставка</a></li>
-                <li><a href="/">О нас</a></li>
+                <li><a href="{{ route('get::delivery') }}">Доставка</a></li>
+                <li><a href="{{ route('get::about') }}">О нас</a></li>
             </ul>
         </div>
     </div>

@@ -23,7 +23,7 @@
                 </div>
 
                 <div class="modal-callback-button">
-                    {!! Form::button('Позвоните мне!', ['class' => 'callback-submit', 'onclick' => 'sendCallbackRequest("callback")']) !!}
+                    {!! Form::button('Позвоните мне!', ['class' => 'btn btn-success callback-submit', 'onclick' => 'sendCallbackRequest("callback")']) !!}
                 </div>
 
                 {!! Form::close() !!}

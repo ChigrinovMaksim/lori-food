@@ -35,17 +35,6 @@ body {
     flex-wrap: wrap;
 }
 
-.restaurant_name_fountain {
-    text-align: center;
-    font-size: 25px;
-    margin: 5%;
-    color: wheat;
-    padding: 4px;
-    border-radius: 10px;
-    display: inline-block;
-    background: rgba(0, 0, 0, 0.3);
-}
-
 .menu_restaurant_img:hover {
     box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
 }
@@ -63,6 +52,50 @@ body {
     margin: 4%;
 }
 
+.restaurant_name_fountain {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.restaurant_name_pizza-city {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+    color: #CA0020;
+}
+
+.restaurant_name_knjaga-vtiha {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.restaurant_name_pizza-city-2 {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    padding: 4px;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.3);
+}
+
 .restaurant_phone_style {
     background: rgba(0, 0, 0, 0.5);
     color: wheat;
@@ -74,10 +107,3 @@ body {
     margin-top: 2%;
 }
 
-.valid {
-    border: 1px solid green;
-}
-
-.invalid {
-    border: 1px solid red;
-}

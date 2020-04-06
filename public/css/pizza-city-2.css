@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul, li, p, span, a {
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-image: url("../images/background_pizza_city.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    font-family: 'Prata', serif;
+}
+
+.pizza_city_2_restaurant_image {
+    cursor: pointer;
+    box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
+    width:400px;
+    transition:width 1s ease;
+}
+
+.show_body_content {
+    opacity: 1;
+    transition: all ease 2s ;
+}
+
+.body_content_title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 4%;
+    font-size: 25px;
+    /*color: blanchedalmond;*/
+    color: black;
+}
+
+.body_restaurant {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.body_restaurant_pizza_city_2 {
+    flex: 1 0 450px;
+    margin: 1%;
+}
+
+

@@ -21,6 +21,8 @@ body {
 .fountain_restaurant_image {
     cursor: pointer;
     box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
+    width:400px;
+    transition:width 1s ease;
 }
 
 .show_body_content {
@@ -48,11 +50,6 @@ body {
 .body_restaurant_fountain {
     flex: 1 0 450px;
     margin: 1%;
-}
-
-.fountain_restaurant_image {
-    width:400px;
-    transition:width 1s ease;
 }
 
 
