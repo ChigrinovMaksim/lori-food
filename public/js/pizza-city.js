@@ -6,10 +6,10 @@ for (let i = 0; array.length > i; i++) {
     }, (i + 1) * 200);
 }
 
-$(".body_restaurant_pizza_city_2").on('click', function () {
+$(".body_restaurant_pizza_city").on('click', function () {
     let $targetElement = $(this).find('img');
 
-    $('.pizza_city_2_restaurant_image').each(function (key, image) {
+    $('.pizza_city_restaurant_image').each(function (key, image) {
         let $image = $(image);
         if ($image.width() > 400) {
             $image.width('400px');

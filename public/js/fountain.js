@@ -7,6 +7,8 @@ for (let i = 0; array.length > i; i++) {
 }
 
 $(".body_restaurant_fountain").on('click', function () {
+    let $targetElement = $(this).find('img');
+
     $('.fountain_restaurant_image').each(function (key, image) {
         let $image = $(image);
         if ($image.width() > 400) {
@@ -14,14 +16,9 @@ $(".body_restaurant_fountain").on('click', function () {
         }
     });
 
-    $(this).find('img').width('800px');
-});
-
-$(".body_restaurant_fountain").on('click', function () {
-    $('.fountain_restaurant_image').each(function (key, image) {
-        let $image = $(image);
-        if ($image.width() === 800) {
-            $image.width('400px');
-        }
-    });
+    if ($targetElement.width() > 400) {
+        $targetElement.width('400px');
+    } else {
+        $targetElement.width('800px');
+    }
 });

@@ -7,6 +7,8 @@ for (let i = 0; array.length > i; i++) {
 }
 
 $(".body_restaurant_knjaga_vtiha").on('click', function () {
+    let $targetElement = $(this).find('img');
+
     $('.knjaga_vtiha_restaurant_image').each(function (key, image) {
         let $image = $(image);
         if ($image.width() > 400) {
@@ -14,14 +16,10 @@ $(".body_restaurant_knjaga_vtiha").on('click', function () {
         }
     });
 
-    $(this).find('img').width('800px');
+    if ($targetElement.width() > 400) {
+        $targetElement.width('400px');
+    } else {
+        $targetElement.width('800px');
+    }
 });
 
-$(".body_restaurant_knjaga_vtiha").on('click', function () {
-    $('.knjaga_vtiha_restaurant_image').each(function (key, image) {
-        let $image = $(image);
-        if ($image.width() === 800) {
-            $image.width('400px');
-        }
-    });
-});
