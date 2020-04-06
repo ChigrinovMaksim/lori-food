@@ -22,8 +22,6 @@ $(".body_restaurant_pizza_city").on('click', function () {
         }
     });
 
-    console.log($targetElement);
-
     if ($targetElement.width() > 400) {
         $targetElement.width('400px');
     } else {
