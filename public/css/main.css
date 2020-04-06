@@ -74,10 +74,9 @@ body:before {
     font-size: 25px;
     margin: 5%;
     color: wheat;
-    padding: 4px;
     border-radius: 10px;
     display: inline-block;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(265, 220, 165, 0.7);
 }
 
 .restaurant_name_fountain > img {
@@ -91,7 +90,7 @@ body:before {
     margin: 5%;
     border-radius: 10px;
     display: inline-block;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(265, 220, 165, 0.7);
     color: #CA0020;
 }
 
@@ -107,7 +106,7 @@ body:before {
     color: wheat;
     border-radius: 10px;
     display: inline-block;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(265, 220, 165, 0.7);
 }
 
 .restaurant_name_knjaga-vtiha > img {
@@ -122,7 +121,7 @@ body:before {
     color: wheat;
     border-radius: 10px;
     display: inline-block;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(265, 220, 165, 0.7);
 }
 
 .restaurant_name_pizza-city-2 > img {
