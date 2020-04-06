@@ -2,6 +2,7 @@ body {
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    overflow-x: hidden;
 }
 
 .header_actions_message {

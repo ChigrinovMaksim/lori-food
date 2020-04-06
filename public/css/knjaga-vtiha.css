@@ -48,8 +48,35 @@ body {
 }
 
 .body_restaurant_knjaga_vtiha {
-    flex: 1 0 450px;
     margin: 1%;
+}
+
+@media (max-width: 320px) {
+    .knjaga_vtiha_restaurant_image {
+        width: 100%;
+    }
+
+    .knjaga_vtiha_restaurant_image {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .knjaga_vtiha_restaurant_image {
+        width: 100%;
+    }
+    .knjaga_vtiha_restaurant_image {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 900px) {
+    .knjaga_vtiha_restaurant_image {
+        width: 100%;
+    }
+    .knjaga_vtiha_restaurant_image {
+        flex-basis: auto;
+    }
 }
 
 

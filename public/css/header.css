@@ -20,7 +20,7 @@
 .header_menu_content > li > a {
     color: #DA1F1F;
     font-size: 15px;
-    padding: 50px;
+    margin: 50px;
 }
 
 .header_logo_img {

@@ -48,8 +48,468 @@ body {
 }
 
 .body_restaurant_fountain {
-    flex: 1 0 450px;
     margin: 1%;
 }
+
+@media screen and (min-width: 1200px) and (max-width: 1640px)  {
+    .content {
+        padding: 4px 1% 3px 1%;
+    }
+    .navbar-logo {
+        width: 30%;
+    }
+    .navbar-menu {
+        width: 33%;
+    }
+    .dropdown-menu {
+        top: 1.5vh !important;
+    }
+    .promotion-image img {
+        width: 100%;
+    }
+    footer {
+        padding: 2vh 5vw 2vh 5vw;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px)  {
+    /*@media screen and (min-width: 992px) and (max-width: 1640px)  {*/
+    .content {
+        padding: 4px 1% 3px 1%;
+    }
+    .flex-underline > div:nth-child(2) {
+        border-bottom: 0.3vh solid #d32823;
+    }
+    .navbar-logo {
+        width: 29%;
+    }
+    .navbar-menu {
+        width: 30%;
+    }
+    .dropdown-menu {
+        top: 2.2vh !important;
+    }
+    .promotion-image img {
+        width: 100%;
+    }
+    footer {
+        padding: 2vh 5vw 2vh 5vw;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .content {
+        padding: 4px 20px 3px 20px;
+    }
+    .pizza {
+        width: 48%;
+    }
+    .product-filters-item > a {
+        font-size: 1.5vw;
+    }
+    .flex-navbar {
+        justify-content: space-between;
+    }
+    .flex-underline > div:nth-child(2) {
+        border-bottom: 0.3vh solid #d32823;
+    }
+    .navbar-buttons {
+        width: 35%;
+        margin: 0;
+    }
+    .navbar-menu {
+        display: none;
+    }
+    .navbar-logo {
+        width: 25%;
+    }
+    .dropdown-menu {
+        top: 2vh !important;
+    }
+    .dropdown-right-menu {
+        left: -130px !important;
+    }
+    #bigSliderIndicators {
+        height: 100%;
+    }
+
+    .left-address-part > div > label, .right-address-part > div > label {
+        font-size: 14px;
+    }
+
+    .left-address-part > div > input, .right-address-part > div > input, .user-comment > textarea {
+        font-size: 12px;
+    }
+
+    .pizza-image > a > img {
+        max-width: 240px;
+    }
+    .promotion-image img {
+        width: 100%;
+    }
+}
+
+@media  (min-width: 481px) and (max-width: 767px) {
+    .content {
+        padding: 4px 15px 3px 15px;
+    }
+    .flex-navbar {
+        justify-content: space-between;
+    }
+    .flex-underline > div:nth-child(2) {
+        border-bottom: 0.3vh solid #d32823;
+    }
+    .navbar-buttons {
+        width: 30%;
+        margin: 0;
+    }
+    .navbar-logo {
+        width: 25%;
+    }
+    .navbar-menu {
+        display: none;
+    }
+    .dropdown {
+        position: static;
+    }
+    .dropdown-menu {
+        width: 100%;
+        transform: none !important;
+        top: 0 !important;
+        margin: 0;
+        border: none;
+    }
+    .dropdown-cart {
+        width: 100% !important;
+        left: 0 !important;
+    }
+    #smallSliderIndicators {
+        display: block;
+        height: 100%;
+    }
+    #bigSliderIndicators {
+        display: none;
+    }
+    .carousel-item {
+        position: relative;
+        display: none;
+        float: left;
+        width: 100%;
+        margin-right: -100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        transition: -webkit-transform .2s ease-in-out;
+        transition: transform .2s ease-in-out,-webkit-transform .2s ease-in-out;
+    }
+    .carousel-indicators {
+        margin-bottom: 2vh;
+    }
+    .carousel-indicators li {
+        height: 2vh;
+        width: 2vh;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        display: none;
+    }
+    .small-menu-center {
+        width: 75vw;
+    }
+    .news {
+        margin-right: 4vw;
+    }
+    .stock {
+        margin-left: 4vw;
+    }
+    .pizza-content {
+        flex-direction: column;
+        padding: 0 5vw;
+    }
+    .pizza-ingridients {
+        width: 100%;
+    }
+    .one-review-flex {
+        display: none !important;
+    }
+    .one-review-mobile-flex {
+        display: flex;
+    }
+    .one-review-header {
+        width: 80vw !important;
+    }
+    .review-text > .text {
+        padding: 2vh 5vw !important;
+        font-size: 2vh;
+    }
+    .one-review-image-section {
+        padding-bottom: 5vh !important;
+    }
+    .one-review-button {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        width: 100%;
+        padding-bottom: 4vh !important;
+    }
+    /*.one-review-button > .all-reviews-button {*/
+    /*    align-self: center;*/
+    /*}*/
+    .one-review-mobile-flex > .one-review-button > div > img {
+        width: 20vw;
+    }
+    .all-reviews-button {
+        font-size: 4vh;
+    }
+    footer {
+        padding: 5vh 5vh 2vh 5vh !important;
+    }
+    .footer-top {
+        flex-direction: column;
+    }
+    .social-images {
+        display: flex;
+        justify-content: space-between;
+        width: 70%;
+    }
+    .footer-content {
+        flex-wrap: wrap;
+    }
+    .footer-content > .footer-content-element {
+        width: 100%;
+        padding-bottom: 2vh;
+    }
+    .footer-title > h1, .footer-title > h2 {
+        font-size: 3.5vh;
+    }
+    .footer-bottom {
+        padding-top: 0;
+    }
+    .footer-content-element > div > a, .footer-content-element > div {
+        font-size: 2.5vh;
+    }
+    .modal-register-width, .modal-login-width {
+        max-width: 90vw !important;
+        margin: 0 auto;
+    }
+
+    .ingredients-flex {
+        flex-direction: column;
+    }
+
+    .ingredients-flex > .ingredients-block, .ingredients-flex > .supplements-block {
+        width: 100%;
+    }
+
+    .ingredients-block > .ingredients > .part, .supplements-block > div > div > .ingredients > .part {
+        width: 23%;
+    }
+
+    .ingredients-block > .ingredients > .part > .part-image, .supplements-block > div > div > .ingredients > .part > .part-image {
+        width: 15vw;
+        height: 15vw;
+    }
+
+    .ingredients-block > .ingredients > .part > .part-image > img, .supplements-block > div > div > .ingredients > .part > .part-image > img {
+        width: 12vw;
+    }
+
+    .nav-link {
+        padding: 0;
+    }
+
+    .nav-ingredients > li > a > img, #resizer {
+        width: 8vw;
+    }
+
+    .ingredients-block {
+        margin-bottom: 1vh;
+    }
+
+    .pizza {
+        width: 100%;
+        margin: 2vh 0 3vh 0 !important;
+    }
+
+    .pizza-product-mobile {
+        display: block;
+    }
+    .menu-sidebar {
+        display: none !important;
+    }
+    .mobile-sidebar-menu > div > a > .menu-title {
+        font-size: 8vw;
+    }
+    .mobile-sidebar-menu > div > a > .menu-image {
+        margin-right: 5vw;
+    }
+    .mobile-sidebar-menu > div > a > .menu-image > img {
+        height: 40px;
+    }
+    .mobile-sidebar-menu > div > a:hover {
+        border: none;
+    }
+    .breadcrumb-item {
+        font-size: 4vw !important;
+    }
+    .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 4vw !important;
+    }
+
+    .product-filters-flex {
+        display: none !important;
+    }
+    .mobile-product-filters-flex {
+        display: flex;
+    }
+    .hover-title {
+        display: none;
+    }
+
+    .order-product {
+        flex-direction: column;
+    }
+
+    .order-product-info {
+        align-items: center;
+        padding: 0;
+    }
+
+    .order-product-image, .order-product-info, .order-product-ingredients, .order-product-price {
+        width: 100%;
+    }
+
+    .order-total-price {
+        font-size: 14px;
+    }
+
+    .left-address-part > div > label, .right-address-part > div > label {
+        font-size: 10px;
+    }
+
+    .address-container, .right-address-part {
+        flex-direction: column;
+    }
+
+    .right-address-part {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .left-address-part {
+        padding-bottom: 0;
+    }
+
+    .left-address-part, .right-address-part {
+        width: 100%;
+    }
+
+    .right-address-part > div {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .left-address-part > div > input, .right-address-part > div > input, .user-comment > textarea {
+        width: 60%;
+        font-size: 14px;
+    }
+
+    .left-address-part > div > label, .right-address-part > div > label {
+        font-size: 14px;
+    }
+
+    .contacts {
+        flex-direction: column;
+    }
+    .contacts-addresses {
+        margin: 15px 0;
+    }
+
+    .contacts-map {
+        width: 100%;
+        height: 95vh;
+        margin: 0 0 25px 0;
+    }
+
+    .delivery-item {
+        width: 48%;
+        margin-top: 4%;
+    }
+
+    .order-nav > li > a > img {
+        height: 60%;
+    }
+
+    .pizza-image > a > img {
+        max-width: 240px;
+    }
+    .reviews {
+        flex-direction: column;
+    }
+
+    .all-reviews {
+        margin: 10px 0 0 0;
+        padding: 0 15px 15px 15px;
+        font-size: 12px;
+    }
+
+    .create-review {
+        min-width: inherit;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    .page-link {
+        padding: 3px 11px;
+    }
+    .mobile-review-button {
+        display: block;
+        border: none;
+        padding: 10px;
+    }
+    .promotion-image {
+        display: none;
+    }
+    .promotion-text {
+        margin: 10px 0 0 0 !important;
+    }
+}
+
+@media (max-width: 320px) {
+    .fountain_restaurant_image {
+        width: 100%;
+    }
+
+    .body_restaurant_fountain {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .fountain_restaurant_image {
+        width: 100%;
+    }
+    .body_restaurant_fountain {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 900px) {
+    .fountain_restaurant_image {
+        width: 100%;
+    }
+    .body_restaurant_fountain {
+        flex-basis: auto;
+    }
+}
+
+/*@font-face {*/
+/*    font-family: Technical Di;*/
+/*    font-display: auto;*/
+/*    src: url("../fonts/technical_di.ttf");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: MS Reference Sans Serif;*/
+/*    font-display: auto;*/
+/*    src: url("../fonts/ms_reference_sans_serif.ttf");*/
+/*}*/
 
 

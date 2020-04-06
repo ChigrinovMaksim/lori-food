@@ -11,4 +11,5 @@ ul, li, p, span, a {
 body {
     box-sizing: border-box;
     font-family: 'Prata', serif;
+    overflow-x: hidden;
 }

@@ -48,8 +48,34 @@ body {
 }
 
 .body_restaurant_pizza_city_2 {
-    flex: 1 0 450px;
     margin: 1%;
 }
 
+@media (max-width: 320px) {
+    .pizza_city_2_restaurant_image {
+        width: 100%;
+    }
+
+    .pizza_city_2_restaurant_image {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .pizza_city_2_restaurant_image {
+        width: 100%;
+    }
+    .pizza_city_2_restaurant_image {
+        flex-basis: auto;
+    }
+}
+
+@media (max-width: 900px) {
+    .pizza_city_2_restaurant_image {
+        width: 100%;
+    }
+    .pizza_city_2_restaurant_image {
+        flex-basis: auto;
+    }
+}
 
