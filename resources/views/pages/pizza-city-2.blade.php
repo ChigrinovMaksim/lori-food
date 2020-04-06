@@ -15,103 +15,103 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/pizza1.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/pizza1.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/pizza2.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/pizza2.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/pasta.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/pasta.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/meat-dishes.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/meat-dishes.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/salad.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/salad.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/salad2.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/salad2.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/burgers.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/burgers.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/first-dishes.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/first-dishes.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/breakfast.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/breakfast.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/aperitif.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/aperitif.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/vareniki.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/vareniki.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/fish-dishes.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/fish-dishes.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/bear-card.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/bear-card.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/bar.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/bar.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/hot-drinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/hot-drinks.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/longdrinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/longdrinks.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_restaurant_img">
-                    <img src="images/pizza_city/shotdrinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city/shotdrinks.jpg" class="pizza_city_restaurant_image">
                 </div>
             </div>
 

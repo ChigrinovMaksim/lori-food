@@ -18,7 +18,7 @@ body {
     font-family: 'Prata', serif;
 }
 
-.pizza_city_2_restaurant_image {
+.pizza_city_restaurant_image {
     cursor: pointer;
     box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
     width:400px;
@@ -47,7 +47,7 @@ body {
     flex-wrap: wrap;
 }
 
-.body_restaurant_pizza_city_2 {
+.body_restaurant_pizza_city {
     flex: 1 0 450px;
     margin: 1%;
 }
