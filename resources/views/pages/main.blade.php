@@ -24,16 +24,18 @@
         <div class="body_restaurant" id="page_animation">
 
             <div class="body_restaurant_menu">
-                <div class="restaurant_name_fountain">"У Фонтана"</div>
+                <div class="restaurant_name_fountain">
+                    <img src="images/fountain-background.png" alt="">
+                </div>
                 <a href="{{ route('get::fountain') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/fountain/face-fountain.jpg" alt="" class="fountain_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Ольгиевская 37</div>
+                    <div class="menu_restaurant_contacts">Базарная 1</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380933736347" class="restaurant_phone_style">093-373-63-47</a>
+                        <a href="tel:+380487224647" class="restaurant_phone_style">048-722-46-47</a>
                     </div>
                 </div>
                 <div class="restaurant_location">
@@ -44,16 +46,18 @@
             </div>
 
             <div class="body_restaurant_menu">
-                <div class="restaurant_name_pizza-city">"Pizza City"</div>
+                <div class="restaurant_name_pizza-city">
+                    <img src="images/pizza-city-background.png" alt="">
+                </div>
                 <a href="{{ route('get::pizza-city') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="pizza-city_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Ольгиевская 37</div>
+                    <div class="menu_restaurant_contacts">Екатерининская 22</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380933736347" class="restaurant_phone_style">093-373-63-47</a>
+                        <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a>
                     </div>
                 </div>
                 <div class="restaurant_location">
@@ -64,16 +68,18 @@
             </div>
 
             <div class="body_restaurant_menu">
-                <div class="restaurant_name_knjaga-vtiha">"Княжа Втiха"</div>
+                <div class="restaurant_name_knjaga-vtiha">
+                    <img src="images/knjaga-vtiha-background.png" alt="">
+                </div>
                 <a href="{{ route('get::knjaga-vtiha') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Ольгиевская 37</div>
+                    <div class="menu_restaurant_contacts">Маразлиевская 1\11</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380933736347" class="restaurant_phone_style">093-373-63-47</a>
+                        <a href="tel:+380487594746" class="restaurant_phone_style">048-759-47-46</a>
                     </div>
                 </div>
                 <div class="restaurant_location">
@@ -84,16 +90,18 @@
             </div>
 
             <div class="body_restaurant_menu">
-                <div class="restaurant_name_pizza-city-2">"Pizza City"</div>
+                <div class="restaurant_name_pizza-city-2">
+                    <img src="images/pizza-city-background.png" alt="">
+                </div>
                 <a href="{{ route('get::pizza-city-2') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Ольгиевская 37</div>
+                    <div class="menu_restaurant_contacts">Ждем открытия</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380933736347" class="restaurant_phone_style">093-373-63-47</a>
+                        <a href="tel:+380933736347" class="restaurant_phone_style">048-722-46-47</a>
                     </div>
                 </div>
                 <div class="restaurant_location">

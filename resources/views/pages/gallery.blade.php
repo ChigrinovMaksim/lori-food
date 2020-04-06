@@ -42,11 +42,13 @@
         body {
             background-color: transparent;
         }
-        .carousel-inner {
+
+        .fountain_gallery {
             max-width: 800px;
             height: auto;
             margin: 0 auto;
         }
+
         .carousel-item {
             width: 100%;
             height: 100%;
