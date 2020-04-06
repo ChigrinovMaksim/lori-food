@@ -5,6 +5,7 @@
 .header_navigation {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     align-items: center;
     background-color: black;
     color: #DA1F1F;
@@ -27,6 +28,7 @@
 }
 
 .header_text {
+    text-align: center;
     font-weight: 700;
     font-size: 30px;
     margin: 1%;
