@@ -163,6 +163,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Telegram\Bot\Laravel\TelegramServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
+        \Rap2hpoutre\FastExcel\Providers\FastExcelServiceProvider::class,
 
         /*
          * Package Service Providers...
@@ -230,6 +231,7 @@ return [
         'Telegram'  => Telegram\Bot\Laravel\Facades\Telegram::class,
         'TelegramManager'  => \App\Facades\TelegramManager::class,
         'Html' => Collective\Html\HtmlFacade::class,
+        'FastExcel' => \Rap2hpoutre\FastExcel\Facades\FastExcel::class,
 
     ],
 
