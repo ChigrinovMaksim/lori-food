@@ -17,8 +17,8 @@
     z-index: 99999;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 0 0 rgba(227, 7, 7, 0.4);
-    animation: radial-pulse 2s infinite;
+    /*box-shadow: 0 0 0 rgba(227, 7, 7, 0.4);*/
+    animation: radial-pulse 1s infinite;
 }
 
 .callback-button {
@@ -36,7 +36,7 @@
 
 @-webkit-keyframes radial-pulse {
     0% {
-        -webkit-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
+        -webkit-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.9);
     }
     70% {
         -webkit-box-shadow: 0 0 0 15px rgba(227, 7, 7, 0);
@@ -47,8 +47,8 @@
 }
 @keyframes radial-pulse {
     0% {
-        -moz-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
-        box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.4);
+        -moz-box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.9);
+        box-shadow: 0 0 0 0 rgba(227, 7, 7, 0.9);
     }
     70% {
         -moz-box-shadow: 0 0 0 15px rgba(227, 7, 7, 0);
@@ -59,13 +59,3 @@
         box-shadow: 0 0 0 0 rgba(227, 7, 7, 0);
     }
 }
-
-/*@keyframes radial-pulse {*/
-/*    0% {*/
-/*        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.5);*/
-/*    }*/
-
-/*    100% {*/
-/*        box-shadow: 0 0 0 40px rgba(227, 7, 7, 0.4);*/
-/*    }*/
-/*}*/
