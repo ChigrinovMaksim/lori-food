@@ -10,7 +10,11 @@
 
 @section('content')
     <div class="body_content">
-        <div class="body_content_title">меню У Фонтана</div>
+        <div class="body_content_title">
+            <div class="restaurant_name_fountain">
+                <img src="images/fountain-background.png" alt="">
+            </div>
+        </div>
         <div class="body_restaurant" id="page_animation">
 
             <div class="body_restaurant_fountain">

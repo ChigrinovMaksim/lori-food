@@ -14,7 +14,7 @@
 
         <div class="fountain_gallery">
             <div class="restaurant_gallery_name">
-                <img src="images/fountain-background.png" alt="">
+                <img src="images/fountain-logo.png" alt="">
             </div>
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -78,7 +78,7 @@
 
         <div class="fountain_gallery">
             <div class="restaurant_gallery_name">
-                <img src="images/pizza-city-background.png" alt="">
+                <img src="images/pizza-city-logo.png" alt="">
             </div>
             <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -142,7 +142,7 @@
 
         <div class="fountain_gallery">
             <div class="restaurant_gallery_name">
-                <img src="images/knjaga-vtiha-background.png" alt="">
+                <img src="images/knjaga-vtiha-logo.png" alt="">
             </div>
             <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -182,7 +182,7 @@
 
         <div class="fountain_gallery">
             <div class="restaurant_gallery_name">
-                <img src="images/pizza-city-background.png" alt="">
+                <img src="images/pizza-city-logo.png" alt="">
             </div>
             <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">

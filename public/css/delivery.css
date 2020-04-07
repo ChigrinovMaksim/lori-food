@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(-45deg, #E4E4E4, #808D94, #646D71, #E4E4E4);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+a {
+    color: greenyellow;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
+}
+
+.title_delivery {
+    text-align: center;
+    width: max-content;
+    margin: 15px auto;
+    border-bottom: 2px solid black;
+    font-size: 25px;
+}
+
+.delivery_text {
+    text-align: center;
+    max-width: 1200px;
+    margin: 15px auto;
+    border-bottom: 2px solid black;
+    padding: 5%;
+    font-size: 20px;
+}
+
+.delivery_contacts {
+    text-align: center;
+    font-size: 20px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}

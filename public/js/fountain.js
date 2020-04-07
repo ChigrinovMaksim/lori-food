@@ -7,6 +7,12 @@ for (let i = 0; array.length > i; i++) {
 }
 
 $(".body_restaurant_fountain").on('click', function () {
+    let width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+
+    if (width < 400) {
+        return;
+    }
+
     let $targetElement = $(this).find('img');
 
     $('.fountain_restaurant_image').each(function (key, image) {

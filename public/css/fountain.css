@@ -9,13 +9,18 @@ ul, li, p, span, a {
 }
 
 body {
-    background-image: url("../images/fontain-background.png");
+    background-image: url("../images/fontain-background1.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
     box-sizing: border-box;
     font-family: 'Prata', serif;
+}
+
+.restaurant_name_fountain > img {
+    background-color: #E6C188;
+    border-radius: 15px;
 }
 
 .fountain_restaurant_image {

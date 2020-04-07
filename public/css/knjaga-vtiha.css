@@ -9,13 +9,18 @@ ul, li, p, span, a {
 }
 
 body {
-    background-image: url("../images/background1.jpg");
+    background-image: url("../images/knjaga-vtiha-background.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
     box-sizing: border-box;
     font-family: 'Prata', serif;
+}
+
+.restaurant_name_knjaga-vtiha > img {
+    background-color: #E6C28A;
+    border-radius: 15px;
 }
 
 .knjaga_vtiha_restaurant_image {

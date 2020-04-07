@@ -18,6 +18,11 @@ body {
     font-family: 'Prata', serif;
 }
 
+.restaurant_name_pizza-city-2 > img {
+    background-color: #E6C28A;
+    border-radius: 15px;
+}
+
 .pizza_city_2_restaurant_image {
     cursor: pointer;
     box-shadow: 8px 6px 40px rgba(0,0,0,0.5);

@@ -10,7 +10,11 @@
 
 @section('content')
     <div class="body_content">
-        <div class="body_content_title">меню pizza city</div>
+        <div class="body_content_title">
+            <div class="restaurant_name_pizza-city-2">
+                <img src="images/pizza-city-background.png" alt="">
+            </div>
+        </div>
         <div class="body_restaurant" id="page_animation">
 
             <div class="body_restaurant_pizza_city_2">
