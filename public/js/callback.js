@@ -49,7 +49,7 @@ function sendCallbackRequest(modalId) {
 
     setTimeout(function () {
         btn.removeAttr("disabled");
-    }, 2000);
+    }, 1000);
 }
 
 (function ($) {
@@ -63,18 +63,6 @@ function sendCallbackRequest(modalId) {
             .find('.user-phone').each(function () {
             $(this).mask("+38 (999) 999-99-99", {autoclear: false});
         });
-
-        $body.on('keyup', '.user-phone', function () {
-            let phone = $(this).val(),
-                form = $(this).parents('form'),
-                callbackSubmit = form.find('.callback-submit');
-
-            if ((phone.indexOf("_") != -1) || phone == '') {
-                callbackSubmit.removeAttr('disabled');
-                callbackSubmit.attr('style', 'background-color: #d32823 !important');
-            }
-        });
-
     });
 
 })(jQuery);
