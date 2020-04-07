@@ -28,4 +28,3 @@ $(".body_restaurant_knjaga_vtiha").on('click', function () {
         $targetElement.width('75%');
     }
 });
-
