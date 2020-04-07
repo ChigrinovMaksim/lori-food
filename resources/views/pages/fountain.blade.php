@@ -12,7 +12,7 @@
     <div class="body_content">
         <div class="body_content_title">
             <div class="restaurant_name_fountain">
-                <img src="images/fountain-background.png" alt="">
+                <img src="images/fountain-logo.png" alt="">
             </div>
         </div>
         <div class="body_restaurant" id="page_animation">

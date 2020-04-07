@@ -24,10 +24,10 @@
         <div class="body_restaurant" id="page_animation">
 
             <div class="body_restaurant_menu">
+                <a href="{{ route('get::fountain') }}">
                 <div class="restaurant_name_fountain">
                     <img src="images/fountain-logo.png" alt="">
                 </div>
-                <a href="{{ route('get::fountain') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/fountain/face-fountain.jpg" alt="" class="fountain_restaurant_img">
                     </div>
@@ -46,10 +46,10 @@
             </div>
 
             <div class="body_restaurant_menu">
+                <a href="{{ route('get::pizza-city') }}">
                 <div class="restaurant_name_pizza-city">
                     <img src="images/pizza-city-logo.png" alt="">
                 </div>
-                <a href="{{ route('get::pizza-city') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="pizza-city_restaurant_img">
                     </div>
@@ -68,10 +68,10 @@
             </div>
 
             <div class="body_restaurant_menu">
+                <a href="{{ route('get::knjaga-vtiha') }}">
                 <div class="restaurant_name_knjaga-vtiha">
                     <img src="images/knjaga-vtiha-logo.png" alt="">
                 </div>
-                <a href="{{ route('get::knjaga-vtiha') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>
@@ -90,10 +90,10 @@
             </div>
 
             <div class="body_restaurant_menu">
+                <a href="{{ route('get::pizza-city-2') }}">
                 <div class="restaurant_name_pizza-city-2">
                     <img src="images/pizza-city-logo.png" alt="">
                 </div>
-                <a href="{{ route('get::pizza-city-2') }}">
                     <div class="menu_restaurant_img">
                         <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
                     </div>

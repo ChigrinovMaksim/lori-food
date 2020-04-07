@@ -13,9 +13,11 @@
     <div class="gallery_slider">
 
         <div class="fountain_gallery">
-            <div class="restaurant_gallery_name">
-                <img src="images/fountain-logo.png" alt="">
-            </div>
+            <a href="{{ route('get::fountain') }}">
+                <div class="restaurant_gallery_name">
+                    <img src="images/fountain-logo.png" alt="">
+                </div>
+            </a>
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -77,9 +79,11 @@
         </div>
 
         <div class="fountain_gallery">
-            <div class="restaurant_gallery_name">
-                <img src="images/pizza-city-logo.png" alt="">
-            </div>
+            <a href="{{ route('get::pizza-city') }}">
+                <div class="restaurant_gallery_name">
+                    <img src="images/pizza-city-logo.png" alt="">
+                </div>
+            </a>
             <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -141,9 +145,11 @@
         </div>
 
         <div class="fountain_gallery">
-            <div class="restaurant_gallery_name">
-                <img src="images/knjaga-vtiha-logo.png" alt="">
-            </div>
+            <a href="{{ route('get::knjaga-vtiha') }}">
+                <div class="restaurant_gallery_name">
+                    <img src="images/knjaga-vtiha-logo.png" alt="">
+                </div>
+            </a>
             <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators3" data-slide-to="0" class="active"></li>
@@ -181,9 +187,11 @@
         </div>
 
         <div class="fountain_gallery">
-            <div class="restaurant_gallery_name">
-                <img src="images/pizza-city-logo.png" alt="">
-            </div>
+            <a href="{{ route('get::pizza-city-2') }}">
+                <div class="restaurant_gallery_name">
+                    <img src="images/pizza-city-logo.png" alt="">
+                </div>
+            </a>
             <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

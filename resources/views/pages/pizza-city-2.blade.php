@@ -12,7 +12,7 @@
     <div class="body_content">
         <div class="body_content_title">
             <div class="restaurant_name_pizza-city-2">
-                <img src="images/pizza-city-background.png" alt="">
+                <img src="images/pizza-city-logo.png" alt="">
             </div>
         </div>
         <div class="body_restaurant" id="page_animation">
