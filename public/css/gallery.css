@@ -1,0 +1,40 @@
+body {
+    background-color: #D9C09A;
+}
+
+.gallery_slider {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.fountain_gallery {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-inner {
+    box-shadow: 8px 6px 40px rgba(0,0,0,0.5);
+}
+
+.restaurant_gallery_name {
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+    color: wheat;
+    border-radius: 10px;
+    display: inline-block;
+    background: rgba(265, 220, 165, 0.7);
+}
+
+.restaurant_gallery_name > img {
+    width: 100%;
+    height: 100%;
+}
