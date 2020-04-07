@@ -13,7 +13,6 @@
     {!! Html::style('css/styles.css') !!}
 
     {!! Html::script('js/jquery-3.1.0.min.js') !!}
-    {!! Html::script('js/jquery.min.js') !!}
     {!! Html::script('js/jqueryValidate.js') !!}
 
     @stack('styles')
