@@ -43,6 +43,12 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
+                    <img src="images/pizza_city/fish-dishes.jpg" class="pizza_city_2_restaurant_image">
+                </div>
+            </div>
+
+            <div class="body_restaurant_pizza_city_2">
+                <div class="pizza_city_2_restaurant_img">
                     <img src="images/pizza_city/salad.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
@@ -73,19 +79,7 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/aperitif.jpg" class="pizza_city_2_restaurant_image">
-                </div>
-            </div>
-
-            <div class="body_restaurant_pizza_city_2">
-                <div class="pizza_city_2_restaurant_img">
                     <img src="images/pizza_city/vareniki.png" class="pizza_city_2_restaurant_image">
-                </div>
-            </div>
-
-            <div class="body_restaurant_pizza_city_2">
-                <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/fish-dishes.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
@@ -98,6 +92,12 @@
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
                     <img src="images/pizza_city/bar.jpg" class="pizza_city_2_restaurant_image">
+                </div>
+            </div>
+
+            <div class="body_restaurant_pizza_city_2">
+                <div class="pizza_city_2_restaurant_img">
+                    <img src="images/pizza_city/aperitif.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 

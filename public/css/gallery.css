@@ -32,6 +32,7 @@ body {
     border-radius: 10px;
     display: inline-block;
     background: rgba(265, 220, 165, 0.7);
+    cursor: pointer;
 }
 
 .restaurant_gallery_name > img {

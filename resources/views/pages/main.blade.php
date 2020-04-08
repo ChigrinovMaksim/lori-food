@@ -33,7 +33,7 @@
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Базарная 1</div>
+                    <div class="menu_restaurant_contacts">Базарная 1a</div>
                     <div class="menu_restaurant_phone">
                         <a href="tel:+380487224647" class="restaurant_phone_style">048-722-46-47</a><br>
                         <a href="tel:+380487224647" class="restaurant_phone_style">048-722-46-47</a>
@@ -55,14 +55,14 @@
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Екатерининская 22</div>
+                    <div class="menu_restaurant_contacts">Екатерининская 20</div>
                     <div class="menu_restaurant_phone">
                         <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a><br>
                         <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a>
                     </div>
                 </div>
                 <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.312841530318!2d30.736038715792333!3d46.48211747296498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c63199c942ed0f%3A0x6a0b48ce72abf8ae!2z0YPQuy4g0JXQutCw0YLQtdGA0LjQvdC40L3RgdC60LDRjywgMjIsINCe0LTQtdGB0YHQsCwg0J7QtNC10YHRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwgNjUwMDA!5e0!3m2!1sru!2sua!4v1586283332443!5m2!1sru!2sua"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.266278060462!2d30.735895415792182!3d46.48303957290236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c631982ec71251%3A0xb49184fb6f69623a!2z0YPQuy4g0JXQutCw0YLQtdGA0LjQvdC40L3RgdC60LDRjywgMjAsINCe0LTQtdGB0YHQsCwg0J7QtNC10YHRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwgNjUwMDA!5e0!3m2!1sru!2sua!4v1586346515100!5m2!1sru!2sua"
                             width="200" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                     <img src="images/knjaga-vtiha-logo.png" alt="">
                 </div>
                     <div class="menu_restaurant_img">
-                        <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
+                        <img src="images/knjaga-vtiha/face-knjaga-vtiha.png" alt="" class="menu_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
@@ -84,7 +84,7 @@
                     </div>
                 </div>
                 <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.384399728024!2d30.748436215792232!3d46.48070037306121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c631a0276684ed%3A0xcb7e061ffdf12dee!2z0LLRg9C70LjRhtGPINCc0LDRgNCw0LfQu9GW0ZfQstGB0YzQutCwLCAxMTEsINCe0LTQtdGB0LAsINCe0LTQtdGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA2NTAwMA!5e0!3m2!1sru!2sua!4v1586283416782!5m2!1sru!2sua"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1155.1954679364528!2d30.75178325834503!3d46.47775074593154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c63175b698df7f%3A0xdbc46efcd80e40d8!2z0KDQtdGB0YLQvtGA0LDQvSDQmtC90Y_QttCwINCS0YLRltGF0LA!5e0!3m2!1sru!2sua!4v1586346705329!5m2!1sru!2sua"
                             width="200" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
@@ -99,10 +99,11 @@
                     </div>
                 </a>
                 <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Ждем открытия</div>
+                    <div class="menu_restaurant_contacts">Базарная 1а</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380933736347" class="restaurant_phone_style">048-722-46-47</a><br>
-                        <a href="tel:+380933736347" class="restaurant_phone_style">048-722-46-47</a>
+                        <a href="tel:+380737224647" class="restaurant_phone_style">073-722-46-47</a><br>
+                        <a href="tel:+380737224647" class="restaurant_phone_style">073-722-46-47</a><br>
+
                     </div>
                 </div>
                 <div class="restaurant_location">
