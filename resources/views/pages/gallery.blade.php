@@ -86,51 +86,47 @@
             </a>
             <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="3"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="4"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="5"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="6"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="7"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="8"></li>
+                    <li data-target="#carouselExampleIndicators2" data-slide-to="9"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="images/gallery/fountain/1.png" alt="First slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/1.png" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/3.png" alt="Second slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/2.png" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/4.png" alt="Third slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/3.png" alt="Third slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/5.png" alt="Fourth slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/4.png" alt="Fourth slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/6.png" alt="Fifth slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/5.png" alt="Fifth slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/7.png" alt="Sixth slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/6.png" alt="Sixth slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/8.png" alt="Seventh slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/7.png" alt="Seventh slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/9.png" alt="Eighth slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/8.png" alt="Eighth slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/10.png" alt="Ninth slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/9.png" alt="Ninth slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/11.png" alt="Tenth slide">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="images/gallery/fountain/12.png" alt="Eleventh slide">
+                        <img class="d-block w-100" src="images/gallery/pizza-city/10.png" alt="Tenth slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">

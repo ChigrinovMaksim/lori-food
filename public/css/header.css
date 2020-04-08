@@ -17,6 +17,11 @@
     flex-wrap: wrap;
 }
 
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .header_menu_content > li > a {
     color: #DA1F1F;
     font-size: 15px;

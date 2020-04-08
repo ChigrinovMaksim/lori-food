@@ -4,7 +4,7 @@
     <div class="header_navigation">
         <div class="header_logo">
             <a href="{{ route('get::main') }}">
-                <img src="images/logo.jpg" alt="" class="header_logo_img">
+                <img src="images/logo.png" alt="" class="header_logo_img">
             </a>
         </div>
         <div class="header_text">"Lori food" сеть ресторанов</div>

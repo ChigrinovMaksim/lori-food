@@ -40,7 +40,7 @@
                     </div>
                 </div>
                 <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d686.9450643216525!2d30.752117629257693!3d46.472860422311676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c63170d5dc400f%3A0x2f10d47d6d04d440!2z0YPQuy4g0JHQsNC30LDRgNC90LDRjywgMSwg0J7QtNC10YHRgdCwLCDQntC00LXRgdGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCA2NTAwMA!5e0!3m2!1sru!2sua!4v1586283265535!5m2!1sru!2sua"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.7525815133495!2d30.752186015791953!3d46.47340857355584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b0e6efde2053659!2z0LrQsNGE0LUgItCjINGE0L7QvdGC0LDQvdCwIg!5e0!3m2!1sru!2sua!4v1586373868376!5m2!1sru!2sua"
                             width="200" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.266278060462!2d30.735895415792182!3d46.48303957290236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c631982ec71251%3A0xb49184fb6f69623a!2z0YPQuy4g0JXQutCw0YLQtdGA0LjQvdC40L3RgdC60LDRjywgMjAsINCe0LTQtdGB0YHQsCwg0J7QtNC10YHRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwgNjUwMDA!5e0!3m2!1sru!2sua!4v1586346515100!5m2!1sru!2sua"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d816.7668409128488!2d30.7375313067523!3d46.48306023870833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41660a0a583dea56!2sPizza%20City!5e0!3m2!1sru!2sua!4v1586373958805!5m2!1sru!2sua"
                             width="200" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                     </div>
                 </div>
                 <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d686.9450643216525!2d30.752117629257693!3d46.472860422311676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c63170d5dc400f%3A0x2f10d47d6d04d440!2z0YPQuy4g0JHQsNC30LDRgNC90LDRjywgMSwg0J7QtNC10YHRgdCwLCDQntC00LXRgdGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCA2NTAwMA!5e0!3m2!1sru!2sua!4v1586283265535!5m2!1sru!2sua"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.7525815133495!2d30.752186015791953!3d46.47340857355584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b0e6efde2053659!2z0LrQsNGE0LUgItCjINGE0L7QvdGC0LDQvdCwIg!5e0!3m2!1sru!2sua!4v1586373868376!5m2!1sru!2sua"
                             width="200" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
