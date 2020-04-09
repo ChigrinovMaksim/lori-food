@@ -62,14 +62,6 @@ dl, ol, ul {
     }
 }
 
-.header_actions_text {
-    font-size: 30px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    color: black;
-    transition: all ease 2s;
-}
-
 .header_actions_images {
     padding-bottom: 2%;
 }

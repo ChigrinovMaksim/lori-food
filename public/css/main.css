@@ -26,6 +26,28 @@ body:before {
     text-align: center;
 }
 
+.main_delivery_block {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 20px;
+    padding: 1%;
+    color: black;
+    text-shadow: black 0 1px 0, darkgrey
+    -1px -1px 0, black -1px 1px 0, red 1px -1px 0;
+}
+
+.partners_dostavochka > a {
+    font-size: 17px;
+    font-style: italic;
+}
+
+.partners_privozilochka > a {
+    font-size: 17px;
+    font-style: italic;
+}
+
 .body_restaurant_menu {
     opacity: 0;
 }
