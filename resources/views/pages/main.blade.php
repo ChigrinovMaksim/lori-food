@@ -12,7 +12,7 @@
     <div class="header_actions_message">
         <div class="main_delivery_block">
             <div class="header_delivery_contacts">
-                <div class="delivery_information">Наша доставка:</div>
+                <div class="delivery_information">Доставка Lori-Food:<br>бесплатно от 500 грн</div>
                 <div class="delivery_fountain">У Фонтана: <a href="tel:+380487224647">0487224647</a></div>
                 <div class="delivery_knjaga-vtiha">Княжа Втiха: <a href="tel:+380487594746">0487594746</a></div>
                 <div class="delivery_pizza-city">Пицца-Сити: <a href="tel:+380487224544">0487224544</a></div>
@@ -20,7 +20,7 @@
             <div class="delivery_terms">
                 <div class="delivery_terms_title">Доставка:</div>
                 <div class="delivery_time">с 11:00 до 21:00</div>
-                <div class="delivery_price">Бесплатная доставка от 500 грн</div>
+{{--                <div class="delivery_price">Бесплатная доставка от 500 грн</div>--}}
             </div>
             <div class="delivery_partners">
                 <div class="delivery_partners_title">Партнеры по доставке:</div>
