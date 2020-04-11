@@ -13,9 +13,9 @@
         <div class="main_delivery_block">
             <div class="header_delivery_contacts">
                 <div class="delivery_information">Наша доставка:</div>
-                <div class="delivery_fountain">У Фонтана: 0933734347</div>
-                <div class="delivery_knjaga-vtiha">Княж Втiха: 0933734347</div>
-                <div class="delivery_pizza-city">Пицца-Сити: 0933734347</div>
+                <div class="delivery_fountain">У Фонтана: <a href="tel:+380487224647">0487224647</a></div>
+                <div class="delivery_knjaga-vtiha">Княжа Втiха: <a href="tel:+380487594746">0487594746</a></div>
+                <div class="delivery_pizza-city">Пицца-Сити: <a href="tel:+380487224544">0487224544</a></div>
             </div>
             <div class="delivery_terms">
                 <div class="delivery_terms_title">Доставка:</div>
@@ -119,9 +119,8 @@
                 <div class="menu_content">
                     <div class="menu_restaurant_contacts">Базарная 1а</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380737224647" class="restaurant_phone_style">073-722-46-47</a><br>
-                        <a href="tel:+380737224647" class="restaurant_phone_style">073-722-46-47</a><br>
-
+                        <a href="tel:+380737224647" class="restaurant_phone_style">Ждем открытия</a><br>
+                        <a href="tel:+380737224647" class="restaurant_phone_style">Ждем открытия</a><br>
                     </div>
                 </div>
                 <div class="restaurant_location">

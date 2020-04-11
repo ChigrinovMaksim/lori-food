@@ -7,7 +7,7 @@
                 <img src="images/logo.png" alt="" class="header_logo_img">
             </a>
         </div>
-        <div class="header_text">"Lori food" сеть ресторанов</div>
+        <div class="header_text">"Lori food" - сеть ресторанов</div>
         <div class="header_menu">
             <ul class="header_menu_content">
                 <li><a href="{{ route('get::main') }}">Главная</a></li>

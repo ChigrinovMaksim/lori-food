@@ -26,6 +26,21 @@ body:before {
     text-align: center;
 }
 
+.delivery_fountain > a {
+    font-size: 17px;
+    font-style: italic;
+}
+
+.delivery_knjaga-vtiha > a {
+    font-size: 17px;
+    font-style: italic;
+}
+
+.delivery_pizza-city > a {
+    font-size: 17px;
+    font-style: italic;
+}
+
 .main_delivery_block {
     display: flex;
     justify-content: space-around;

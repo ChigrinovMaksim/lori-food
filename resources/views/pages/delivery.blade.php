@@ -9,9 +9,16 @@
 {{--@endpush--}}
 
 @section('content')
-    <div class="title_delivery">Партнеры по доставке</div>
+    <div class="title_delivery">Доставка Lori-Food</div>
     <div class="delivery_text">
-
+        Предоставляем на доставку все виды маринованного мяса:<br>
+        <ul>
+            <li>Телятина(филе)</li>
+            <li>Баранина(каре)</li>
+            <li>Курица(крылья, бедра)</li>
+            <li>Свинина(шея, кострец, ребра, челагач)</li>
+        </ul>
+        Стоимость маринованного мяса <span style="color: #B10400; font-style: italic; font-size: 25px">-25%</span> от стоимости готовой продукции
     </div>
     <div class="delivery_contacts">
         <div class="delivery_dostavochka">Доставочка: <a href="tel:+380487704470">048-770-44-70</a></div>
