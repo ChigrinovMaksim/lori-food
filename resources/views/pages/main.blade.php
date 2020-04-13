@@ -19,7 +19,7 @@
             </div>
             <div class="delivery_terms">
                 <div class="delivery_terms_title">Доставка:</div>
-                <div class="delivery_time">с 11:00 до 21:00</div>
+                <div class="delivery_time">с 11:00 до 22:00</div>
 {{--                <div class="delivery_price">Бесплатная доставка от 500 грн</div>--}}
             </div>
             <div class="delivery_partners">
