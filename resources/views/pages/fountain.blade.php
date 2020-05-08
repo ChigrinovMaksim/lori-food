@@ -37,13 +37,13 @@
 
             <div class="body_restaurant_fountain">
                 <div class="fountain_restaurant_img">
-                    <img src="images/fountain/alcohol-bear-snacks.jpg" class="fountain_restaurant_image">
+                    <img src="images/fountain/kebab-hot-drinks.jpg" class="fountain_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_fountain">
                 <div class="fountain_restaurant_img">
-                    <img src="images/fountain/kebab-hot-drinks.jpg" class="fountain_restaurant_image">
+                    <img src="images/fountain/alcohol-bear-snacks.jpg" class="fountain_restaurant_image">
                 </div>
             </div>
 
