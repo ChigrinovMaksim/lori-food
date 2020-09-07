@@ -19,103 +19,109 @@
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/pizza1.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/1.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/pizza2.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/2.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/pasta.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/3.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/meat-dishes.png" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/4.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/fish-dishes.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/5.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/salad.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/6.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/salad2.png" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/7.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/burgers.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/8.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/first-dishes.png" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/9.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/breakfast.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/10.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/vareniki.png" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/11.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/bear-card.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/12.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/bar.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/13.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/aperitif.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/14.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/hot-drinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/15.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/longdrinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/16.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 
             <div class="body_restaurant_pizza_city_2">
                 <div class="pizza_city_2_restaurant_img">
-                    <img src="images/pizza_city/shotdrinks.jpg" class="pizza_city_2_restaurant_image">
+                    <img src="images/pizza_city_2/17.jpg" class="pizza_city_2_restaurant_image">
+                </div>
+            </div>
+
+            <div class="body_restaurant_pizza_city_2">
+                <div class="pizza_city_2_restaurant_img">
+                    <img src="images/pizza_city_2/18.jpg" class="pizza_city_2_restaurant_image">
                 </div>
             </div>
 

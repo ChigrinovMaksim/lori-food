@@ -113,7 +113,7 @@
                         <img src="images/pizza-city-logo.png" alt="">
                     </div>
                     <div class="menu_restaurant_img">
-                        <img src="images/pizza_city/face_pizza.jpg" alt="" class="menu_restaurant_img">
+                        <img src="images/pizza_city_2/face_pizza_2.jpg" alt="" class="menu_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
