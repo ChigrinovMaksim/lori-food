@@ -37,7 +37,7 @@
     <div class="body_content">
         <div class="body_content_title">Наши заведения ждут Вас</div>
         <div class="body_restaurant" id="page_animation">
-
+z
             <div class="body_restaurant_menu">
                 <a href="{{ route('get::fountain') }}">
                     <div class="restaurant_name_fountain">
@@ -67,7 +67,7 @@
                         <img src="images/pizza-city-logo.png" alt="">
                     </div>
                     <div class="menu_restaurant_img">
-                        <img src="images/pizza_city/face_pizza.jpg" alt="" class="pizza-city_restaurant_img">
+                        <img src="images/pizza_city/face-pizza.jpg" alt="" class="pizza-city_restaurant_img">
                     </div>
                 </a>
                 <div class="menu_content">
@@ -119,8 +119,8 @@
                 <div class="menu_content">
                     <div class="menu_restaurant_contacts">Базарная 1а</div>
                     <div class="menu_restaurant_phone">
-                        <a href="tel:+380737224647" class="restaurant_phone_style">Ждем открытия</a><br>
-                        <a href="tel:+380737224647" class="restaurant_phone_style">Ждем открытия</a><br>
+                        <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a><br>
+                        <a href="tel:+380487224544" class="restaurant_phone_style">048-787-45-44</a>
                     </div>
                 </div>
                 <div class="restaurant_location">
