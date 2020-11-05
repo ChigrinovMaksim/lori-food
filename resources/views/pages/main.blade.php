@@ -37,7 +37,7 @@
     <div class="body_content">
         <div class="body_content_title">Наши заведения ждут Вас</div>
         <div class="body_restaurant" id="page_animation">
-z
+
             <div class="body_restaurant_menu">
                 <a href="{{ route('get::fountain') }}">
                     <div class="restaurant_name_fountain">
