@@ -19,12 +19,6 @@
 
             <div class="body_restaurant_knjaga_vtiha">
                 <div class="knjaga_vtiha_restaurant_img">
-                    <img src="images/knjaga-vtiha/1.png" class="knjaga_vtiha_restaurant_image">
-                </div>
-            </div>
-
-            <div class="body_restaurant_knjaga_vtiha">
-                <div class="knjaga_vtiha_restaurant_img">
                     <img src="images/knjaga-vtiha/2.png" class="knjaga_vtiha_restaurant_image">
                 </div>
             </div>
