@@ -107,28 +107,28 @@
                 </div>
             </div>
 
-            <div class="body_restaurant_menu">
-                <a href="{{ route('get::pizza-city-2') }}">
-                    <div class="restaurant_name_pizza-city-2">
-                        <img src="images/pizza-city-logo.png" alt="">
-                    </div>
-                    <div class="menu_restaurant_img">
-                        <img src="images/pizza_city_2/face_pizza_2.jpg" alt="" class="menu_restaurant_img">
-                    </div>
-                </a>
-                <div class="menu_content">
-                    <div class="menu_restaurant_contacts">Базарная 1а</div>
-                    <div class="menu_restaurant_phone">
-                        <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a><br>
-                        <a href="tel:+380487224544" class="restaurant_phone_style">048-787-45-44</a>
-                    </div>
-                </div>
-                <div class="restaurant_location">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.7525815133495!2d30.752186015791953!3d46.47340857355584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b0e6efde2053659!2z0LrQsNGE0LUgItCjINGE0L7QvdGC0LDQvdCwIg!5e0!3m2!1sru!2sua!4v1586373868376!5m2!1sru!2sua"
-                            width="200" height="150" frameborder="0" style="border:0;" allowfullscreen=""
-                            aria-hidden="false" tabindex="0"></iframe>
-                </div>
-            </div>
+{{--            <div class="body_restaurant_menu">--}}
+{{--                <a href="{{ route('get::pizza-city-2') }}">--}}
+{{--                    <div class="restaurant_name_pizza-city-2">--}}
+{{--                        <img src="images/pizza-city-logo.png" alt="">--}}
+{{--                    </div>--}}
+{{--                    <div class="menu_restaurant_img">--}}
+{{--                        <img src="images/pizza_city_2/face_pizza_2.jpg" alt="" class="menu_restaurant_img">--}}
+{{--                    </div>--}}
+{{--                </a>--}}
+{{--                <div class="menu_content">--}}
+{{--                    <div class="menu_restaurant_contacts">Базарная 1а</div>--}}
+{{--                    <div class="menu_restaurant_phone">--}}
+{{--                        <a href="tel:+380487224544" class="restaurant_phone_style">048-722-45-44</a><br>--}}
+{{--                        <a href="tel:+380487224544" class="restaurant_phone_style">048-787-45-44</a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="restaurant_location">--}}
+{{--                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.7525815133495!2d30.752186015791953!3d46.47340857355584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b0e6efde2053659!2z0LrQsNGE0LUgItCjINGE0L7QvdGC0LDQvdCwIg!5e0!3m2!1sru!2sua!4v1586373868376!5m2!1sru!2sua"--}}
+{{--                            width="200" height="150" frameborder="0" style="border:0;" allowfullscreen=""--}}
+{{--                            aria-hidden="false" tabindex="0"></iframe>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 
         </div>

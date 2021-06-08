@@ -125,6 +125,12 @@
                 </div>
             </div>
 
+            <div class="body_restaurant_pizza_city">
+                <div class="pizza_city_restaurant_img">
+                    <img src="images/pizza_city/19.jpg" class="pizza_city_restaurant_image">
+                </div>
+            </div>
+
 
         </div>
     </div>
